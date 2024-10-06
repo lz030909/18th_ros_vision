@@ -1,0 +1,2 @@
+darknet是图像教程中用到的包
+18th_ros_dataset中是本次校内赛要训练模型的样本数据集，要求在训练中划分bulletproof_vest  、first_aid_kit 、 spontoon  、teargas四类，这是后面分站赛的任务，第一次分站赛只要能启动darknet就好
